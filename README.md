@@ -1,8 +1,5 @@
-# Hello 👋
-
-
-
-
+<h1 align="center">Hi 👋, I'm Sulav Shrestha</h1>
+<h3 align="center">Passionate, Curious Creature from 🇳🇵</h3>
 
 
 - 🔭 I’m currently working on ...
@@ -15,9 +12,12 @@
 - ⚡ Fun fact: ...
 
 
-##### Tools and Technologies
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsulavshrestha&label=Profile%20views&color=0e75b6&style=flat" alt="iamsulavshrestha" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamsulavshrestha" alt="iamsulavshrestha" /></a> </p>
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamsulavshrestha&show_icons=true&locale=en&layout=compact" alt="iamsulavshrestha" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamsulavshrestha&show_icons=true&locale=en" alt="iamsulavshrestha" /></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsulavshrestha&theme=default)
